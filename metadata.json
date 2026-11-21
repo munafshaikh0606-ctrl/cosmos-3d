@@ -1,0 +1,6 @@
+{
+  "name": "Perplexity-style AI Search",
+  "description": "An interactive, search-grounded chatbox application styled like Perplexity, featuring an interactive Three.js 3D background web network and a customized AI research assistant avatar.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
